@@ -1,0 +1,10 @@
+C:\Users\opilane\source\repos\FirtCOCO\FirtCOCO\FirtCOCO\bin\Debug\FirtCOCO.dll
+C:\Users\opilane\source\repos\FirtCOCO\FirtCOCO\FirtCOCO\bin\Debug\FirtCOCO.pdb
+C:\Users\opilane\source\repos\FirtCOCO\FirtCOCO\FirtCOCO\bin\Debug\box2d.dll
+C:\Users\opilane\source\repos\FirtCOCO\FirtCOCO\FirtCOCO\bin\Debug\CocosSharp.dll
+C:\Users\opilane\source\repos\FirtCOCO\FirtCOCO\FirtCOCO\bin\Debug\MonoGame.Framework.dll
+C:\Users\opilane\source\repos\FirtCOCO\FirtCOCO\FirtCOCO\obj\Debug\FirtCOCO.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FirtCOCO\FirtCOCO\FirtCOCO\obj\Debug\FirtCOCO.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FirtCOCO\FirtCOCO\FirtCOCO\obj\Debug\FirtCOCO.csproj.CopyComplete
+C:\Users\opilane\source\repos\FirtCOCO\FirtCOCO\FirtCOCO\obj\Debug\FirtCOCO.dll
+C:\Users\opilane\source\repos\FirtCOCO\FirtCOCO\FirtCOCO\obj\Debug\FirtCOCO.pdb
